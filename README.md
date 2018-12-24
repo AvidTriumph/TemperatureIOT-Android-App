@@ -1,5 +1,5 @@
 # TemperatureIOT-Android-App
-This project is subcomponent of TemperatureIOT project to measure and display temperature of diffenrent classrooms.It has email and password sign in with firebase.The ListView is populated using asynchronous data fetch.
+This project is Android application and is subcomponent of TemperatureIOT project to measure and display temperature of diffenrent classrooms.It has email and password sign in with firebase.The ListView is populated using asynchronous data fetch.
 
 
 ## Screenshots
